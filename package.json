@@ -9,5 +9,6 @@
   },
   "devDependencies": {
     "babel-plugin-ramda": "^2.0.0"
-  }
+  },
+  "workspaces": ["app-heroku", "app-vercel"]
 }
